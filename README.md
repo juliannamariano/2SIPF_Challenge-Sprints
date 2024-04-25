@@ -1,2 +1,3 @@
 # 2SIPF_Challenge-Sprints
-Grrupo Beauty Tech 
+Grupo Beauty Tech
+
